@@ -97,7 +97,7 @@
                                             </connections>
                                         </button>
                                         <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9F9-08-F1h">
-                                            <rect key="frame" x="291" y="119" width="30" height="30"/>
+                                            <rect key="frame" x="291" y="121" width="30" height="30"/>
                                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                             <state key="normal" image="retweet-icon"/>
                                             <connections>
