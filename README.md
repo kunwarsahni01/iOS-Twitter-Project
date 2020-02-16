@@ -8,9 +8,9 @@ Time spent: **4** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] User can compose a tweet. (4pts)
-- [ ] User can favorite a tweet. (4pts)
-- [ ] User can retweet a tweet. (2pts)
+- [X] User can compose a tweet. (4pts)
+- [X] User can favorite a tweet. (4pts)
+- [X] User can retweet a tweet. (2pts)
 
 The following **bonus** features are implemented:
 
@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-This is a basic twitter app to read your tweets.
+![ezgif com-optimize-3](https://user-images.githubusercontent.com/22580992/74612100-3f154680-50d0-11ea-983b-0f29887e1a69.gif)
 
 Time spent: **2** hours spent in total
 
