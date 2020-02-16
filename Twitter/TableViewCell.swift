@@ -9,7 +9,8 @@
 import UIKit
 
 class TableViewCell: UITableViewCell {
-
+    @IBOutlet weak var retweetButton: UIButton!
+    @IBOutlet weak var likeButton: UIButton!
     @IBOutlet weak var profileImage: UIImageView!
     @IBOutlet weak var userLabel: UILabel!
     @IBOutlet weak var tweetLabel: UILabel!
@@ -18,10 +19,14 @@ class TableViewCell: UITableViewCell {
         // Initialization code
     }
 
-    override func setSelected(_ selected: Bool, animated: Bool) {
-        super.setSelected(selected, animated: animated)
-
-        // Configure the view for the selected state
+    
+    
+    @IBAction func retweetTapped(_ sender: Any) {
+        
     }
-
+    
+    @IBAction func likeTapped(_ sender: Any) {
+        
+    }
+    
 }
